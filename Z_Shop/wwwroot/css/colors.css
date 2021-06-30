@@ -1,0 +1,6 @@
+﻿.bg-color-default *{
+    background-color: #212121;
+}
+.text-color-default *{
+    color: #fafafa;
+}
